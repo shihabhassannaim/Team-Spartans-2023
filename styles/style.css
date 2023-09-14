@@ -266,6 +266,44 @@ body {
   margin: 0;
   padding: 0;
 }
+.Urban-heat-area-div{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.Urban-heat-area-div p {
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-right: 30px;
+  font-size: 25px;
+}
+.Urban-heat-area{
+  font-size: 30px;
+  font-weight: bolder;
+  color: #19446e;
+  text-align: center;
+  margin-top: 50px;
+}
+.Urban-heat-area-img{
+  height: 500px;
+  width: 900px;
+  margin-left: 30px ;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 5px;
+}
+.air-video{
+  margin-left: 50px;
+  border-radius: 20px;
+}
+.air-pollution {
+  display: flex;
+}
+.air-pollution p {
+  margin: 30px;
+  font-size: 20px;
+  margin-top: 100px;
+}
 .section-2 {
   width: 100%;
   background: url(../images/section-2-bg.png) no-repeat center top;
